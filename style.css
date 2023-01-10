@@ -1183,6 +1183,9 @@ h4 {
   }
 }
 @media screen and (max-width: 400px) {
+  .subfooter{
+    width:90%;
+    height:19px
   .members {
     height: 80%;
   }
