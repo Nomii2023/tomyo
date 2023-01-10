@@ -1343,7 +1343,7 @@ h4 {
 }
 .subfooter {
   height: 14%;
-  width: 30%;
+  width:50%;
   display: flex;
   flex-direction: row;
   align-items: center;
