@@ -1183,6 +1183,33 @@ h4 {
   }
 }
 @media screen and (max-width: 400px) {
+   #boxes1 {
+    aspect-ratio: 3/3;
+  }
+  #boxes2 {
+    aspect-ratio: 3/3;
+  }
+  #boxes3 {
+    aspect-ratio: 3/3;
+  }
+  #boxes4 {
+    aspect-ratio: 3/3;
+  }
+  #boxes5 {
+    aspect-ratio: 3/3;
+  }
+  #boxes6 {
+    aspect-ratio: 3/3;
+  }
+  #boxes7 {
+    aspect-ratio: 3/3;
+  }
+  #boxes8 {
+    aspect-ratio: 3/3;
+  }
+  #boxes9 {
+    aspect-ratio: 3/3;
+  }
   .subfooter{
     width:90%;
     height:17px}
